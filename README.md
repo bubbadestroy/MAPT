@@ -1,6 +1,6 @@
-# MAPT
+# MAPT - Mobile App Penetration Testing
 
-PDF of Mobile App Penetration Testing - sourced selflearning.io/
+Single PDF of Entire Free Course:  Mobile App Penetration Testing 
 
 Tools Used:
 
@@ -124,3 +124,8 @@ pa4080
 ## As are addons. Extensions. Mods. Permissions. Certificates. Forks. Spoons. Sporks. Especially Sporks.
 ## Anything not stock and up to date, including rooting, mods, addons, extensions, non-oem software... is a potential vulnerability. That includes third party anti-virus and anti-malware. CC-Cleaner for example.. 
 ## tldr; beyond the scope of this readme. 
+
+
+## source referenced and reworked from material found @ 
+
+https://selflearning.io/
