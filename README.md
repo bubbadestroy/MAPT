@@ -4,25 +4,31 @@ PDF of Mobile App Penetration Testing - sourced selflearning.io/
 
 Tools Used:
 
-firefox / addon / fullpage to pdf capture = ctrl + shift + Y
+## Firefox: Enable Toolbars
+alt -v - Toolbars - Menu Bar & Bookmark Toolbar
+
+Addon: note, too many addons can/will destroy system resources quickly, especially with multiple page tabs *[1]
+
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 
 https://addons.mozilla.org/en-US/firefox/addon/fireshot/
 
+convert entire current source page to pdf = ctrl + shift + Y
 
-pdf manipulation reference
+
+## other pdf tools
 
 https://www.astro.caltech.edu/observatories/coo/solicit/mergePDF.html
 
-usually bookmarked on toolbar as well:
+Bookmarked to toolbar:
 
 https://pdfmyurl.com
 
 
 
+## See Also: nix command line 
 
-
-
-See Also:
+https://askubuntu.com/questions/942727/convert-website-to-pdf-recursively
 
 
 Save a list of Web pages as PDF file
@@ -112,3 +118,9 @@ answered Aug 3 '17 at 17:48
 pa4080
 21.3k88 gold badges5252 silver badges100
 
+
+*[1] 
+## on that note, tabs in general are a security vulerabililty. 
+## As are addons. Extensions. Mods. Permissions. Certificates. Forks. Spoons. Sporks. Especially Sporks.
+## Anything not stock and up to date, including rooting, mods, addons, extensions, non-oem software... is a potential vulnerability. That includes third party anti-virus and anti-malware. CC-Cleaner for example.. 
+## tldr; beyond the scope of this readme. 
