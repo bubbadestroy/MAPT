@@ -120,12 +120,12 @@ pa4080
 
 
 *[1] 
-## on that note, tabs in general are a security vulerabililty. 
-## As are addons. Extensions. Mods. Permissions. Certificates. Forks. Spoons. Sporks. Especially Sporks.
-## Anything not stock and up to date, including rooting, mods, addons, extensions, non-oem software... is a potential vulnerability. That includes third party anti-virus and anti-malware. CC-Cleaner for example.. 
-## tldr; beyond the scope of this readme. 
+on that note, tabs in general are a security vulerabililty. 
+As are addons. Extensions. Mods. Permissions. Certificates. Forks. Spoons. Sporks. Especially Sporks.
+Anything not stock and up to date, including rooting, mods, addons, extensions, non-oem software... is a potential vulnerability. That includes third party anti-virus and anti-malware. CC-Cleaner for example.. 
+tldr; beyond the scope of this readme. 
 
 
-## source referenced and reworked from material found @ 
+pdfs were remastered from original source material found at  
 
 https://selflearning.io/
